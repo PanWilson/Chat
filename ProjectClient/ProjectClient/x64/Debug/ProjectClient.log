@@ -1,0 +1,4 @@
+﻿  main.cpp
+e:\polder\projectclient\projectclient\main.cpp(27): warning C4326: return type of 'main' should be 'int' instead of 'void'
+e:\polder\projectclient\projectclient\main.cpp(92): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  ProjectClient.vcxproj -> E:\Polder\ProjectClient\x64\Debug\ProjectClient.exe
